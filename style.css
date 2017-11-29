@@ -1,0 +1,17 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+p {
+    letter-spacing: inherit;
+}
+
+
+
+.container {
+    width: 800px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: lightgray;
+    border: 3px solid #185a79;
+        margin: auto;
+}
+
+
